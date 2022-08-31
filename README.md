@@ -82,7 +82,7 @@ php artisan make:controller PostController
 ```
 - Vào app/Http/Controllers/PostController.php
 ```Dockerfile
-<?php
+<?php 
   
 namespace App\Http\Controllers;
   
